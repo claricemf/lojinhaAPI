@@ -1,3 +1,4 @@
+# lojinhaAPI
 **Automação da API REST com JUnit e RestAssured**
 
 Este projeto tem como objetivo a automatização dos cenários de testes para os endpoints de Usuário, Produto e Componente da API REST. 
